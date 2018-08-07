@@ -103,3 +103,19 @@ These services will still run even if you disable them, You can observe this fro
 
 
 These changes will not affect your ability to use your PC in any way and windows update will still work.
+
+#### Installation
+
+Download RUFUS : http://rufus.akeo.ie/
+
+After you have installed Rufus:
+
+Launch it
+Select ISO Image
+Point to the Windows 10 ISO file
+Check off Create a bootable disk using
+Select GPT partitioning for EUFI firmware as the Partition scheme
+Choose FAT32 NOT NTFS as the File system
+Make sure your USB thumbdrive in the Device list box
+Click Start
+Close when complete
